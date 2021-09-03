@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Belle</h1>
 <h3 align="center">A passionate frontend developer from Taipei</h3>
 
-- 👨‍💻 All of my projects are available at [https://belleshih.github.io/HS_profolio/](https://belleshih.github.io/HS_profolio/)
+- 👨‍💻 All of my projects are available at [https://belleshih.github.io/HS_profolio/](https://belleshih.github.io/HS_PORTFOLIO/)
 
 - 📫 How to reach me **belleshih0502@gmail.com**
 
