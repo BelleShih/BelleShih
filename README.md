@@ -7,10 +7,10 @@
 
 </p>
 
-
+<!-- 
 ![Belle’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BelleShih&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleShih&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleShih&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belleshih&show_icons=true&title_color=01bc8d&bg_color=fafafa&locale=en&layout=compact" alt="belleshih" /></p>
 
